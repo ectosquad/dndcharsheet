@@ -1,0 +1,10 @@
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\bin\Debug\DNDCharacterSheet.exe.config
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\bin\Debug\DNDCharacterSheet.exe
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\bin\Debug\DNDCharacterSheet.pdb
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.csprojAssemblyReference.cache
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.Properties.Resources.resources
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.csproj.GenerateResource.cache
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.csproj.CoreCompileInputs.cache
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.exe
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.pdb
+C:\Users\amoffice\source\repos\DNDCharacterSheet\DNDCharacterSheet\obj\Debug\DNDCharacterSheet.Form1.resources
